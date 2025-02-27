@@ -10,4 +10,4 @@ centos
 ubuntu
 mysql
 mzz2017/v2raya
-ghcr.io/open-webui/open-webui:git-8c4d967-cuda@sha256:2de2e025d36745fd2584a9ee87d7b03ed36dc997691461ea50035aa4989c872f
+ghcr.io/open-webui/open-webui:git-15485e7@sha256:17b1f73ed5eb4ca78642e4efaf6d9222f4bdc81d3a4988a8463701ce666f28e9
