@@ -4,12 +4,12 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-busybox
-debian
-centos
-ubuntu
-mysql
-mzz2017/v2raya
-ghcr.io/open-webui/open-webui:0.5.16@sha256:7d0ec500863611ad89b714e347b2e58c9d340bb8aae9127f527012354e6725f3
-linux/arm64/v8:ollama/ollama:latest
-sonatype/nexus3
+#busybox
+#debian
+#centos
+#ubuntu
+#mysql
+#mzz2017/v2raya
+#ghcr.io/open-webui/open-webui:0.5.16@sha256:7d0ec500863611ad89b714e347b2e58c9d340bb8aae9127f527012354e6725f3
+#linux/arm64/v8:ollama/ollama:latest
+
