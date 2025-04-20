@@ -17,3 +17,4 @@ confighub/confighubplatform:latest
 confighub/confighubplatform:v1.8
 docker.gitea.com/gitea:1.23.7
 docker.io/library/mysql:8
+nginx
