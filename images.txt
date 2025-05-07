@@ -21,3 +21,4 @@ nginx
 openresty/openresty
 verdaccio/verdaccio
 verdaccio/verdaccio:6.0.5
+goproxy/goproxy
