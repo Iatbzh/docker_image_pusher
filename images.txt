@@ -25,3 +25,4 @@ goproxy/goproxy
 ghcr.io/vtsykun/packeton
 langgenius/dify-web:latest
 docker.io/langgenius/dify-sandbox:0.2.12
+docker.io/langgenius/dify-plugin-daemon:0.0.10-local
