@@ -26,3 +26,8 @@ ghcr.io/vtsykun/packeton
 langgenius/dify-web:latest
 docker.io/langgenius/dify-sandbox:0.2.12
 docker.io/langgenius/dify-plugin-daemon:0.0.10-local
+docker.io/library/redis:6-alpine
+postgres:15-alpine
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+
