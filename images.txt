@@ -24,3 +24,4 @@ verdaccio/verdaccio:6.0.5
 goproxy/goproxy
 ghcr.io/vtsykun/packeton
 langgenius/dify-web:latest
+docker.io/langgenius/dify-sandbox:0.2.12
