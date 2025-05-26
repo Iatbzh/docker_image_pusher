@@ -31,3 +31,8 @@ postgres:15-alpine
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 jenkins/jenkins:latest
+jenkins/jenkins:2.504.1-lts-jdk21
+jenkins/jenkins:2.504.1-lts-jdk17
+jenkins/jenkins:latest-jdk21
+jenkins/jenkins:2.504.1-lts-jdk17
+
