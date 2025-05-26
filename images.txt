@@ -30,4 +30,4 @@ docker.io/library/redis:6-alpine
 postgres:15-alpine
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
-
+jenkins/jenkins:latest
