@@ -39,4 +39,6 @@
 #redmine:latest
 #jenkins/agent:latest-jdk21
 #debian:bookworm-slim
-dorowu/ubuntu-desktop-lxde-vnc:focal
+#dorowu/ubuntu-desktop-lxde-vnc:focal
+jenkins/agent:latest-bookworm-jdk21
+
