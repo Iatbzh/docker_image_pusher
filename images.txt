@@ -40,5 +40,5 @@
 #jenkins/agent:latest-jdk21
 #debian:bookworm-slim
 #dorowu/ubuntu-desktop-lxde-vnc:focal
-jenkins/agent:latest-bookworm-jdk21
-
+#jenkins/agent:latest-bookworm-jdk21
+centos:7.9.2009
