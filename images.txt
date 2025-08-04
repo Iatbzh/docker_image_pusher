@@ -43,4 +43,5 @@
 #jenkins/agent:latest-bookworm-jdk21
 #centos:7.9.2009
 #kasmweb/desktop:1.16.0-rolling-daily
-kasmweb/centos-7-desktop:1.15.0-rolling-weekly
+#kasmweb/centos-7-desktop:1.15.0-rolling-weekly
+kasmweb/core-ubuntu-bionic:1.14.0-rolling
