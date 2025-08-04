@@ -41,4 +41,5 @@
 #debian:bookworm-slim
 #dorowu/ubuntu-desktop-lxde-vnc:focal
 #jenkins/agent:latest-bookworm-jdk21
-centos:7.9.2009
+#centos:7.9.2009
+kasmweb/ubuntu-22.04-desktop:latest
