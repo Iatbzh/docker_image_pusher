@@ -47,4 +47,5 @@
 #kasmweb/core-ubuntu-bionic:1.14.0-rolling
 #kasmweb/debian-bookworm-desktop:1.16.0
 #kasmweb/debian-bullseye-desktop:1.16.0
-lscr.io/linuxserver/kasm:latest
+#lscr.io/linuxserver/kasm:latest
+kasmweb/kasm-network-plugin:amd64-1.2
