@@ -48,4 +48,5 @@
 #kasmweb/debian-bookworm-desktop:1.16.0
 #kasmweb/debian-bullseye-desktop:1.16.0
 #lscr.io/linuxserver/kasm:latest
-kasmweb/kasm-network-plugin:amd64-1.2
+#kasmweb/kasm-network-plugin:amd64-1.2
+pypa/bandersnatch:6.6.0
