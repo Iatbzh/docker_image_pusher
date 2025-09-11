@@ -50,4 +50,5 @@
 #lscr.io/linuxserver/kasm:latest
 #kasmweb/kasm-network-plugin:amd64-1.2
 #pypa/bandersnatch:6.6.0
-node:18.20.8-bullseye
+#node:18.20.8-bullseye
+ghcr.io/linuxserver/webtop:ubuntu-xfce
