@@ -51,4 +51,5 @@
 #kasmweb/kasm-network-plugin:amd64-1.2
 #pypa/bandersnatch:6.6.0
 #node:18.20.8-bullseye
-ghcr.io/linuxserver/webtop:ubuntu-xfce
+#ghcr.io/linuxserver/webtop:ubuntu-xfce
+ghcr.io/openclaw/openclaw
