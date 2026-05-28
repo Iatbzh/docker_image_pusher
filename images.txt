@@ -52,4 +52,5 @@
 #pypa/bandersnatch:6.6.0
 #node:18.20.8-bullseye
 #ghcr.io/linuxserver/webtop:ubuntu-xfce
-ghcr.io/openclaw/openclaw
+#ghcr.io/openclaw/openclaw
+vllm/vllm-openai:v0.20.0
